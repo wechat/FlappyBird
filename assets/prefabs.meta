@@ -1,0 +1,12 @@
+{
+  "ver": "1.2.0",
+  "importer": "directory",
+  "imported": true,
+  "uuid": "e47269a3-9458-4e0a-91b5-09a3b2928fbe",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "bundleName": "PrefabsBundle",
+    "isBundle": true
+  }
+}
